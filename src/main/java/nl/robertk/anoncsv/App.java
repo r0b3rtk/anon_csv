@@ -1,4 +1,4 @@
-package nl.robertk;
+package nl.robertk.anoncsv;
 
 import org.supercsv.cellprocessor.ift.CellProcessor;
 import org.supercsv.io.CsvMapReader;

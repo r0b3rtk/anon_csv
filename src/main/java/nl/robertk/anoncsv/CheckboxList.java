@@ -1,4 +1,4 @@
-package nl.robertk;
+package nl.robertk.anoncsv;
 
 import javax.swing.*;
 import javax.swing.border.*;

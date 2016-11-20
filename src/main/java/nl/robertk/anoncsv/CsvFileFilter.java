@@ -1,4 +1,4 @@
-package nl.robertk;
+package nl.robertk.anoncsv;
 
 import javax.swing.filechooser.FileFilter;
 import java.io.File;
